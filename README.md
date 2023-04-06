@@ -1,1 +1,5 @@
 # EDA_ON_HOTEL_BOOKINGS
+
+ The following conclusions are made as per my discussion with my team, and this is my contribution.
+             79.1 % bookings were made through TA/TO (travel agents/Tour operators).Second most channel is direct. Room type ‘A’ is most preferred by the guests second most preferred is ‘D’. Almost 98.7% of the guests prefer ‘No deposit’ type of criterion while booking hotels.BB (Bed & Breakfast) is the most preferred type of meal by the guests. Full Board i.e. FB is least preferred. HB (Half Board) and SC (Self Catering) are equally preferred. As we can see in the line chart, from June to September most of the bookings happened. It’s Summer time. After September bookings Starts declining. Resort hotels had the highest adr in June, July and August than the City hotels. But in other months adr of Resort hotel was less than the City hotels. Thus we can say that, the January, February, March, April, November and December are the good months for customers to get good adr.
+
